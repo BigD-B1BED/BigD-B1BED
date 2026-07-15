@@ -1,6 +1,6 @@
 ### Hi, I'm BigD 👋
 
-I'm a developer interested in building projects and exploring new technologies.
+I'm interested in AI and technology.
 
 - 🔭 I'm currently working on: *add your current project here*
 - 🌱 I'm currently learning: *add what you're learning here*
